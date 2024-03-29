@@ -1,0 +1,50 @@
+select
+{ font-size:20px;
+    width:200px;
+    height:50px;
+    color:rgb(255, 255, 255);
+    background-color:rgb(182, 207, 92);
+font-family:arial;
+border-width: 3px;
+border-color: white;
+border-bottom:0px;
+border-radius:10px;
+margin-left:10px;
+margin-top:10px;
+
+text-align:center;
+}
+select:hover{
+    background:transparent;
+    background-color:rgb(130, 223, 72);
+    box-shadow: 0 0 10px 0, 0 10px 0 0;
+    transition: 1s;
+    border-radius:20px;
+}
+.mydiv
+{
+    background-color:rgb(60, 115, 204);
+  margin-left:0px;
+  margin-right:0px;
+  height:61px;
+}
+.mybody{
+    margin-top:10px;
+    margin-left:10px;
+    margin-right:10px;
+    background-color:white;
+    padding:10px;
+}
+body{
+    margin:0px;
+}
+.aboutus{
+  background-color:rgb(60, 115, 204); 
+  margin-left:60px;
+  border-color:white;
+  border-radius:5px;
+  width:100px;
+  height:40px;
+  text-align:center;
+  
+}
